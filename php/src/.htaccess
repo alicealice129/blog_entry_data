@@ -1,0 +1,4 @@
+RedirectMatch 403 ^/smarty_app/vendor/?$
+RedirectMatch 403 ^/smarty_app/models/?$
+RedirectMatch 403 ^/smarty_app/composer.json
+RedirectMatch 403 ^/smarty_app/composer.lock

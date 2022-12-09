@@ -1,0 +1,3 @@
+persist_db
+php/src/smarty_app/templates_c/*
+*.lock
